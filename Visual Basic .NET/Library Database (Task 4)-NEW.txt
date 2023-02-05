@@ -1,0 +1,11 @@
+BOOKNAME|AUTHOR|PUBLICATIONDATE|GENRE|NUMBEROFPAGES|ISBN|LANGUAGE|AMOUNTINSTOCK|ISREQUESTED|TIMESBORROWED
+Enemy Of The Orbit|Kellye Kummer|1814-12-14|HUMOR|1362|978-4-9195-8902-3|Yue Chinese|6|Yes|1
+Army With Four Eyes|Fernanda Sines|2015-05-25|ADVENTURE|143|978-5-5154-5376-3|Spanish|6|No|2
+Recruits With Tentacles|Bruce Bethel|1925-03-06|CHILDREN|599|978-8-7272-3057-3|Turkish|18|No|3
+Cyborgs Of Our Legacy|Kaylee Krone|1991-07-28|FANTASY|101|978-3-2100-2874-3|Turkish|6|Yes|4
+Defenders And Clones|Lowell Trombetta|1802-06-25|HORROR|1581|978-0-5675-1602-2|Marathi|5|No|5
+Children And Rebels|Slyvia Bohon|2016-03-03|HUMOR|336|978-2-6057-2555-7|Telugu|5|No|6
+Statue Of The Sun|Lorina Schroeder|1924-10-18|NON FICTION|295|978-6-9430-8919-7|German|5|Yes|7
+Gift Of Space Flight|Lela Bold|1900-03-15|ADVENTURE|1319|978-3-9447-3240-4|English|20|Yes|8
+Preys And Queens|Niesha Neely|1928-12-01|HUMOR|914|978-9-0395-4435-8|English|9|Yes|9
+Rats And Men|Lottie Yokota|1865-09-24|CHILDREN|1470|978-5-7779-6241-6|Tamil|18|Yes|10
